@@ -1,15 +1,15 @@
-# TurtlePay® Blockchain Data Collection Agent
-![Version](https://img.shields.io/badge/version-0.1.4-blue.svg?cacheSeconds=2592000) ![Prerequisite](https://img.shields.io/badge/node-%3E%3D6-blue.svg) [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/TurtlePay/blockchain-data-collection-agent#readme) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/TurtlePay/blockchain-data-collection-agent/graphs/commit-activity) [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-yellow.svg)](https://github.com/TurtlePay/blockchain-data-collection-agent/blob/master/LICENSE) [![Twitter: TurtlePay](https://img.shields.io/twitter/follow/TurtlePay.svg?style=social)](https://twitter.com/TurtlePay)
+# DecCash® Blockchain Data Collection Agent
+![Version](https://img.shields.io/badge/version-0.1.4-blue.svg?cacheSeconds=2592000) ![Prerequisite](https://img.shields.io/badge/node-%3E%3D6-blue.svg) [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/DecCash/blockchain-data-collection-agent#readme) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/DecCash/blockchain-data-collection-agent/graphs/commit-activity) [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-yellow.svg)](https://github.com/DecCash/blockchain-data-collection-agent/blob/master/LICENSE) [![Twitter: DecCash](https://img.shields.io/twitter/follow/DecCash.svg?style=social)](https://twitter.com/DecCash)
 
 #### Master Build Status
-[![Build Status](https://travis-ci.org/TurtlePay/blockchain-data-collection-agent.svg?branch=master)](https://travis-ci.org/TurtlePay/blockchain-data-collection-agent) [![Build status](https://ci.appveyor.com/api/projects/status/github/TurtlePay/blockchain-data-collection-agent?branch=master&svg=true)](https://ci.appveyor.com/project/brandonlehmann/blockchain-data-collection-agent/branch/master)
+[![Build Status](https://travis-ci.org/DecCash/blockchain-data-collection-agent.svg?branch=master)](https://travis-ci.org/DecCash/blockchain-data-collection-agent) [![Build status](https://ci.appveyor.com/api/projects/status/github/DecCash/blockchain-data-collection-agent?branch=master&svg=true)](https://ci.appveyor.com/project/brandonlehmann/blockchain-data-collection-agent/branch/master)
 
 
-> Collects TurtleCoin® blockchain data into a SQL backend that serving and using the data a breeze.
+> Collects DecCash® blockchain data into a SQL backend that serving and using the data a breeze.
 
 ## Prerequisites
 
-- TurtleCoin® >= 0.12.0
+- DecCash® >= 0.12.0
 - node >=6
 - MariaDB/MySQL with InnoDB support
 
@@ -66,16 +66,16 @@ npm test
 
 ## Author
 
-👤 **TurtlePay® Development Team**
+👤 **DecCash® Development Team**
 
-* Twitter: [@TurtlePay](https://twitter.com/TurtlePay)
-* Github: [@TurtlePay](https://github.com/TurtlePay)
+* Twitter: [@DecCash](https://twitter.com/DecCash)
+* Github: [@DecCash](https://github.com/DecCash)
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check [issues page](https://github.com/TurtlePay/blockchain-data-collection-agent/issues).
+Feel free to check [issues page](https://github.com/DecCash/blockchain-data-collection-agent/issues).
 
 ## Show your support
 
@@ -84,6 +84,6 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2018-2019 [TurtlePay® Development Team](https://github.com/TurtlePay).
+Copyright © 2018-2019 [DecCash® Development Team](https://github.com/DecCash).
 
-This project is [AGPL-3.0](https://github.com/TurtlePay/blockchain-data-collection-agent/blob/master/LICENSE) licensed.
+This project is [AGPL-3.0](https://github.com/DecCash/blockchain-data-collection-agent/blob/master/LICENSE) licensed.
