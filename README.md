@@ -84,6 +84,6 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2018-2019 [DecCash® Development Team](https://github.com/DecCash).
+Copyright © 2020 [DecCash® Development Team](https://github.com/DecCash).
 
 This project is [AGPL-3.0](https://github.com/DecCash/blockchain-data-collection-agent/blob/master/LICENSE) licensed.
